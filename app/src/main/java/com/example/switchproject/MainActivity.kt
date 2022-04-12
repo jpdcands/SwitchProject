@@ -45,7 +45,7 @@ fun CustomSwitch() {
         if (checked.value) {
             Text("Switch is On")
         } else {
-            Text("Switch is Off")
+            Text("Switch is O")
         }
     }
 }
